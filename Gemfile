@@ -64,6 +64,6 @@ end
 
 gem "mcp", "~> 0.3.0"
 
-gem "faraday", "~> 2.13"
+gem "faraday", "~> 2.14"
 
 gem "dotenv", "~> 3.1"
