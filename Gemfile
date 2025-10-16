@@ -62,7 +62,7 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "mcp", "~> 0.3.0"
+gem "mcp", "~> 0.4.0"
 
 gem "faraday", "~> 2.13"
 
